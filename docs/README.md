@@ -45,6 +45,4 @@ MDUI is an excellent front-end framework designed with Material Design.
 
 [BOYANG YAN'S](http://yanboyang.com/)
 
-[gledos的博客](http://gledos.science) - 没有什么值钱的东西 
-
 You can create a new pull request to add your blog here.
